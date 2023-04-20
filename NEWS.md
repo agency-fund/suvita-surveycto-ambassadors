@@ -1,3 +1,7 @@
+# v0.0.5
+* Nomination form asks for each nominee's approximate age, as example of possible way to discourage inclusion errors.
+* Made sure each element requires a response.
+
 # v0.0.4
 * Form to nominate ambassadors checks for duplicate nominations. Includes an additional form to add a village, which updates the villages dataset and the nominees dataset.
 
