@@ -1,3 +1,6 @@
+# v0.0.4
+* Form to nominate ambassadors checks for duplicate nominations. Includes an additional form to add a village, which updates the villages dataset and the nominees dataset.
+
 # v0.0.3
 * Allows providing the phone number for a nominee who currently lacks a phone number.
 # v0.0.2
