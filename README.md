@@ -75,4 +75,7 @@
     ![](surveycto_screenshot.png)
     
 1. Go to the Collect page, and fill out the nominate_ambassadors form. If you select "Create a new nominee" in one form submission, that nominee should be visible in the next form submission. In some cases, the updating may take a few minutes, or the first round of nominees may not immediately be visible on the second form submission. You may be able to force an update of the nominees server dataset on the Design page.
-1. If you download the nominees server dataset, you should see a column n_nominations that keeps a running count of the number of nominations per nominee.
+
+2. Go to the Collect page, and fill out the update_villages form. Now, the next time you fill out the nominate_ambassadors form, the new village should be visible and you should be able to create a new nominee in that village. In some cases, the updating may take a few minutes. You may be able to force an update of the nominees server dataset on the Design page.
+
+3. If you download the nominees server dataset, you should see a column n_nominations that keeps a running count of the number of nominations per nominee.
