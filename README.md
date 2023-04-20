@@ -1,4 +1,4 @@
-# v0.0.2
+# v0.0.3
 
 ## Instructions
 
@@ -20,11 +20,11 @@
     | district_name | Replace | district_name |
     | village_id | Replace | village_id |
     | village_name | Replace | village_name |
-    | zero* | Replace | nominee_new |
+    | zero | Replace | nominee_new |
     | nominee_key* | Replace | nominee_key |
     | nominee_name* | Replace | nominee_name |
     | nominee_phone* | Replace | nominee_phone |
     | nominee_label* | Replace | nominee_label |
-    | one* | Add | n_nominations |
+    | one | Add | n_nominations |
 1. Go to the Collect page, and fill out the nominations form. If you select "Create a new nominee" in one form submission, that nominee should be visible in the next form submission. In some cases, the updating may take a few minutes, or the first round of nominees may not immediately be visible on the second form submission. You may be able to force an update of the nominees server dataset on the Design page.
 1. If you download the nominees server dataset, you should see a column n_nominations that keeps a running count of the number of nominations per nominee.

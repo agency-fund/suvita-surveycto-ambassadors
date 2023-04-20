@@ -1,3 +1,5 @@
+# v0.0.3
+* Allows providing the phone number for a nominee who currently lacks a phone number.
 # v0.0.2
 * Allows multiple nominations per form submission. Ensures that phone number does not correspond to a previous nominee.
 
