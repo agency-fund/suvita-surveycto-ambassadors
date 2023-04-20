@@ -1,0 +1,7 @@
+﻿district_id,district_name,village_id,village_name,nominee_key,sortby,nominee_new,nominee_name,nominee_phone,nominee_label,n_nominations
+D1,District 1,V1,Village 1,f1543547-8029-443e-a0c5-39615655d0f8,2,1,TBD,0,Create a new nominee,0
+D1,District 1,V2,Village 2,c5961635-cd06-4da4-92ce-d2b30c043a4b,2,1,TBD,0,Create a new nominee,0
+D2,District 2,V3,Village 3,7f8d41ce-97e2-478d-aeb1-b845abc1ce36,2,1,TBD,0,Create a new nominee,0
+D2,District 2,V4,Village 4,0ca1938e-554f-421d-a100-86cb46872490,2,1,TBD,0,Create a new nominee,0
+D1,District 1,V2,Village 2,7ee28f7b-15b8-44bf-8f00-a664800173b6,,0,Alice,776,Alice - 776,1
+D2,District 2,V3,Village 3,d99d96e8-ad13-48f4-91f1-00fd25e2f1d9,,0,Bob,234,Bob - 234,4
