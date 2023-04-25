@@ -1,3 +1,5 @@
+# 0.0.6
+* Added ability to sort villages and nominees by using repeat-groups and a pre-loaded dataset to convert characters to numbers.
 # v0.0.5
 * Nomination form asks for each nominee's approximate age, as example of possible way to discourage inclusion errors.
 * Made sure each element requires a response.
