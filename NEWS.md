@@ -1,3 +1,6 @@
+# 0.0.7
+* Improved documentation.
+
 # 0.0.6
 * Added ability to sort villages and nominees by using repeat-groups and a pre-loaded dataset to convert characters to numbers.
 # v0.0.5
